@@ -1,0 +1,11 @@
+C:\Users\gundo\OneDrive\Masaüstü\form-sayitahminoyunu\form-sayitahminoyunu\bin\Debug\form-sayitahminoyunu.exe.config
+C:\Users\gundo\OneDrive\Masaüstü\form-sayitahminoyunu\form-sayitahminoyunu\bin\Debug\form-sayitahminoyunu.exe
+C:\Users\gundo\OneDrive\Masaüstü\form-sayitahminoyunu\form-sayitahminoyunu\bin\Debug\form-sayitahminoyunu.pdb
+C:\Users\gundo\OneDrive\Masaüstü\form-sayitahminoyunu\form-sayitahminoyunu\obj\Debug\form-sayitahminoyunu.csproj.AssemblyReference.cache
+C:\Users\gundo\OneDrive\Masaüstü\form-sayitahminoyunu\form-sayitahminoyunu\obj\Debug\form-sayitahminoyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\gundo\OneDrive\Masaüstü\form-sayitahminoyunu\form-sayitahminoyunu\obj\Debug\form_sayitahminoyunu.Form1.resources
+C:\Users\gundo\OneDrive\Masaüstü\form-sayitahminoyunu\form-sayitahminoyunu\obj\Debug\form_sayitahminoyunu.Properties.Resources.resources
+C:\Users\gundo\OneDrive\Masaüstü\form-sayitahminoyunu\form-sayitahminoyunu\obj\Debug\form-sayitahminoyunu.csproj.GenerateResource.cache
+C:\Users\gundo\OneDrive\Masaüstü\form-sayitahminoyunu\form-sayitahminoyunu\obj\Debug\form-sayitahminoyunu.csproj.CoreCompileInputs.cache
+C:\Users\gundo\OneDrive\Masaüstü\form-sayitahminoyunu\form-sayitahminoyunu\obj\Debug\form-sayitahminoyunu.exe
+C:\Users\gundo\OneDrive\Masaüstü\form-sayitahminoyunu\form-sayitahminoyunu\obj\Debug\form-sayitahminoyunu.pdb
